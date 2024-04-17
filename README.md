@@ -16,6 +16,7 @@ eLife is a terminal-based simulation showcasing a simplified ecosystem of "emans
 Run the compile executable:
 
 `chmod +x compile.sh`
+`./compile.sh`
 
 Run the gui:
 
