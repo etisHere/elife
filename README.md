@@ -13,6 +13,8 @@ eLife is a terminal-based simulation showcasing a simplified ecosystem of "emans
 - **Gui:** A Gui to change the emans life to your liking
 
 ## Running the Simulation
+Change line 81 if gnome-terminal is not installed or just install it. 
+
 GTK(Install this on your os):
 `libgtk-3-dev`
 
